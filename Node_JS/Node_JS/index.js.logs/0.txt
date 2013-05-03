@@ -1,0 +1,15 @@
+
+module.js:340
+    throw err;
+          ^
+Error: Cannot find module 'formidable'
+    at Function.Module._resolveFilename (module.js:338:15)
+    at Function.Module._load (module.js:280:25)
+    at Module.require (module.js:364:17)
+    at require (module.js:380:17)
+    at Object.<anonymous> (E:\ICLP_PROJECT\CouchDB_Node_JS_Practice\Node_JS\Node_JS\requestHandlers.js:3:18)
+    at Module._compile (module.js:456:26)
+    at Object.Module._extensions..js (module.js:474:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:312:12)
+    at Module.require (module.js:364:17)
