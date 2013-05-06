@@ -3,6 +3,10 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Node_JS", "Node_JS\Node_JS.csproj", "{908DF3DC-CF3A-4206-A42B-51CF0E7BD0B4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVC_RAZOR", "MVC_RAZOR\MVC_RAZOR.csproj", "{4120BBAD-2281-4586-967C-C6B0C894EDD7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVC_ASPX", "MVC_ASPX\MVC_ASPX.csproj", "{E5A97B11-EDE0-4F24-8F5B-D8F198E4DBDF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +17,14 @@ Global
 		{908DF3DC-CF3A-4206-A42B-51CF0E7BD0B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{908DF3DC-CF3A-4206-A42B-51CF0E7BD0B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{908DF3DC-CF3A-4206-A42B-51CF0E7BD0B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4120BBAD-2281-4586-967C-C6B0C894EDD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4120BBAD-2281-4586-967C-C6B0C894EDD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4120BBAD-2281-4586-967C-C6B0C894EDD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4120BBAD-2281-4586-967C-C6B0C894EDD7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5A97B11-EDE0-4F24-8F5B-D8F198E4DBDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5A97B11-EDE0-4F24-8F5B-D8F198E4DBDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5A97B11-EDE0-4F24-8F5B-D8F198E4DBDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5A97B11-EDE0-4F24-8F5B-D8F198E4DBDF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
