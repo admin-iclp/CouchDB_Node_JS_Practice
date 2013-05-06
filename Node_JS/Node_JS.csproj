@@ -59,10 +59,6 @@
   <ItemGroup>
     <Content Include="Node_JS\hello_world.js" />
     <Content Include="Node_JS\hello_world.js.logs\0.txt" />
-    <Content Include="Node_JS\index.js" />
-    <Content Include="Node_JS\requestHandlers.js" />
-    <Content Include="Node_JS\router.js" />
-    <Content Include="Node_JS\server.js" />
     <Content Include="Start.aspx" />
     <Content Include="Web.config" />
   </ItemGroup>
