@@ -19,13 +19,23 @@ var newDB = conn.database("steven_practice_2");
 //        console.log('database already exists.');
 //    } else {
 //        console.log('database does not exists.');
-//        newDB.create(function (error) {
+        
+//        newDB.create(function (error, data) {
 //            if (error) {
 //                console.log('error', error);
 //            } else {
+//                console.log(data);
 //                console.log("database created successful");
 //            }
 //        });
+//    }
+//});
+
+//db.get('test 1', function (error, doc) {
+//    if (error) {
+//        console.log(error);
+//    } else {
+//        console.log(doc);
 //    }
 //});
 
@@ -42,7 +52,7 @@ var newDB = conn.database("steven_practice_2");
 //});
 
 
-//db.get('test', function (error, doc) {
+//db.get('test 1', function (error, doc) {
 //    if (error) {
 //        console.log(error);
 //    } else {
@@ -65,8 +75,9 @@ var newDB = conn.database("steven_practice_2");
 //    }
 //});
 
-//db.save('test', {
-//    name: 'Steven Test'
+//db.save('test 1', {
+//    name: 'Steven Test',
+//    description: "willy"
 //}, function (err, res) {
 //    if (err) {
 //        console.log(err);

@@ -10,7 +10,7 @@
     <form id="form1" runat="server">
     <div>
         <a href="Node_JS/hello_world.js">Hello World!</a>
-        <a href="Node_JS/index.js">Practice 2</a>
+        <a href="Node_JS/hello_world_2.js">Hello World 2!</a>
     </div>
     </form>
 </body>
