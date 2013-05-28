@@ -69,9 +69,9 @@ var newDB = conn.database("steven_practice_2");
 //    name: 'Steven Test'
 //}, function (err, res) {
 //    if (err) {
-//        console.log("1");
+//        console.log(err);
 //    } else {
-//        console.log("2");
+//        console.log(res);
 //    }
 //});
 

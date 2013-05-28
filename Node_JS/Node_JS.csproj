@@ -57,6 +57,8 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Node_JS\couchdb.js" />
+    <Content Include="Node_JS\felix_couchdb.js" />
     <Content Include="Node_JS\hello_world.js" />
     <Content Include="Node_JS\hello_world.js.logs\0.txt" />
     <Content Include="Start.aspx" />
